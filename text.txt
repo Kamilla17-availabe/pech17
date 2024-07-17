@@ -1,0 +1,7 @@
+git init
+git clon 
+git status 
+git aad
+git commit
+git push (відпрвляє коміти)
+git pull
